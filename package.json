@@ -1,5 +1,5 @@
 {
-  "name": "RuTracker App",
+  "name": "RuTrackerApp",
   "version": "1.0.0",
   "description": "Unofficial ElectronJS app for RuTracker.org",
   "main": "main.js",
