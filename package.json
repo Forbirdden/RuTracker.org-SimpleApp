@@ -6,6 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
+  "repository": "https://github.com/Forbirdden/RuTracker.org-SimpleApp",
   "devDependencies": {
     "electron": "^22.0.0",
     "electron-builder": "^23.6.0"
